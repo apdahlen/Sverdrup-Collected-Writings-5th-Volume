@@ -1,0 +1,126 @@
+STEP 1: HAZARD IDENTIFICATION
+
+Lexical Hazards
+
+* Indledningens Opgave: “the task/office of the Introduction” (a technical, academic-theological phrase; not merely “intro’s job”).
+* almindelig Udsigt: “general survey/overview” (not “view” in a casual sense).
+* den hellige Skrifts Tilblivelse: “the coming-into-being/origin/formation of Holy Scripture” (Tilblivelse is weighty: emergence in history, not simply “writing”).
+* det gamle Testamentes Tid: “the time/period of the Old Testament” (a salvation-historical era).
+* fremgaa: “become evident/appear” (logical inference).
+* følger … Trin for Trin: “follows … step by step” (strict correspondence).
+* Aabenbaringen: “Revelation” (the divine act/process of self-disclosure; must not become mere “discovery”).
+* den hellige Historie: “holy history/sacred history” (salvation history).
+* tage op: “take up/undertake/bring under consideration” (scholarly treatment).
+* under hvilke Forholde … til: “under what circumstances … came to be” (conditions/setting).
+* Affattelsestid: “time of composition” (technical term).
+* Omstændigheder: “historical circumstances” (context).
+* Tankegang: “line of thought/mental drift/argumentative movement” (must not flatten to “ideas”).
+* eftervise: “demonstrate/trace and prove” (stronger than “show”).
+* Plads: “place/position” (function within a whole).
+* Organisme: “organism” (metaphor of an organic unity; do not replace with “collection” without losing force).
+* Led: “link/member/joint” (organic/structural necessity).
+* bevaret: “preserved” (providential and historical connotation).
+* indtil nu: “unto this present” (keep solemn cadence).
+
+Syntactic Hazards
+
+* Long periodic sentences with semicolon logic: the argument unfolds in stages; must not be chopped into short modern sentences.
+* Repeated “hvorledes … hvorledes …” clauses: deliberate parallelism; preserve rhythm.
+* The progression “først … derpaa … dertil …” is structural; must remain clear and sequential.
+
+Theological Hazards
+
+* “Holy Scripture” as a unified, sacred entity; avoid merely academic “biblical texts.”
+* “Revelation / holy history” implies salvation-historical correspondence: Scripture’s origin follows God’s redemptive self-disclosure.
+* Preservation “unto now” can imply providence in canon and transmission; keep doctrinal neutrality but retain sacred register.
+
+Voice Hazards
+
+* The tone is programmatic, didactic, and confident; avoid casual phrasing.
+* Maintain the earnest, orderly, almost sermonic cadence (“thereupon,” “thereto,” “thus”).
+* Preserve the claim of necessity (“a necessary link”) without softening.
+
+STEP 2: IDIOM ANALYSIS
+
+* “Trin for Trin” (step by step): idiom of exact correspondence; in English, “step by step” is natural and forceful.
+* “Tage op” in scholarly prose: “to take up” or “to treat” fits older academic English.
+* “Dertil knytter sig da naturlig …” expresses logical natural connection: “Thereto is naturally joined …” (older cadence).
+* “den hele hellige Skrift” stresses unity and sanctity: “the whole of Holy Scripture.”
+* “den hele Organisme af hellige Skrifter” uses organic metaphor: retain “organism” or “organic whole,” echoing 19th-c. theological rhetoric.
+
+KJV-leaning equivalents
+
+* “Holy Scripture,” “unto,” “thereupon,” “thereto,” “thus,” “whereby,” “howbeit” (sparingly) can provide biblical gravity without artificial archaism.
+
+STEP 3: ARGUMENT STRUCTURE IDENTIFICATION
+
+1. First duty of the Introduction: provide a general survey of the origin/formation of Holy Scripture during the Old Testament period.
+
+   * Purpose: from this it will be evident that Scripture, in its coming-into-being, follows Revelation / sacred history step by step.
+2. Next duty: take up the individual writings one by one.
+
+   * Show: the circumstances of their origin, their content, and how each forms a necessary link in the whole of Holy Scripture.
+3. From this follows naturally a further inquiry:
+
+   * How the individual writings were gathered into one Holy Scripture (canon/collection).
+   * How this one Holy Scripture has been preserved unto the present.
+4. Conclusion: therefore the task is best solved by three methodological steps:
+
+   * Investigate each writing’s time of composition and historical circumstances as precisely as possible.
+   * Give each writing’s content and line of thought as fully as time permits.
+   * Demonstrate each writing’s place within the organic whole of the holy writings.
+
+STEP 4: BIBLICAL ECHO IDENTIFICATION
+
+* No direct quotations, but several biblical-ecclesial echoes in diction:
+
+  * “Holy Scripture” (biblical/church phrase; cf. 2 Tim. 3:15–16 KJV “holy scriptures”).
+  * “Revelation” and “holy history” resonate with salvation-history framing common to theological exposition.
+* English should keep “Holy Scripture” in a recognizably biblical register (KJV: “holy scriptures”).
+
+STEP 5: VOICE INTENSITY PRESERVATION
+
+* Retain the confident, orderly pedagogical tone: this is not tentative.
+* Preserve “nøjagtig” and “Trin for Trin” as strong claims of exact following.
+* Keep “nødvendigt Led” as “a necessary link,” not “an important part.”
+
+STEP 6: MODAL FORCE PRESERVATION
+
+* “maa” must be rendered with necessity: “must.”
+* “bedst” indicates normative judgment: “is best.”
+* “saa nøjagtig som muligt” keeps maximal aspiration: “as exactly/accurately as possible.”
+
+STEP 7: CONSISTENT THEOLOGICAL TERM RENDERING
+
+* den hellige Skrift / hellige Skrift: “Holy Scripture” consistently.
+* de enkelte Skrifter: “the individual writings” (or “several writings”) consistently.
+* Aabenbaringen: “Revelation.”
+* den hellige Historie: “the holy history” / “sacred history” (choose one and keep it).
+* Tilblivelse: “coming-into-being” / “origin” (prefer one; here keep “coming-into-being” once, then “origin” if needed for readability).
+* Organisme: “organism” / “organic whole” (retain organic metaphor).
+
+STEP 8: METAPHOR INTEGRITY PRESERVATION
+
+* “Led” and “Organisme” constitute an organic-metaphor field (members/link/joint within an organism). Preserve this imagery.
+* “Skriften … følger … Trin for Trin” is a path metaphor; keep “follows … step by step.”
+
+STEP 9: TONE CONTRAST PRESERVATION
+
+* The passage is largely uniform in tone: methodological seriousness and reverent academic framing.
+* Preserve the slight shift from description of duties to prescriptive method (“altså bedst ved”).
+
+STEP 10: ORAL CADENCE AWARENESS
+
+* Keep longer sentences with semicolons/colons to preserve lecture-sermon cadence.
+* Retain the sequential markers (“first … thereupon … thereto … thus”).
+* Keep the final triad as a measured, enumerated cadence.
+
+STEP 11: ACADEMIC TRANSLATION (VOICE-PRESERVING, SVERDRUP PROFILE)
+
+It will, then, be the first task of the Introduction to give a general survey of the coming-into-being of Holy Scripture in the time of the Old Testament; from this it will appear how Scripture, in its origin, follows Revelation, or the holy history, step by step. Thereupon the Introduction must take up the several writings each by itself, and show under what circumstances they have come to be, what their content is, and how each of them forms a necessary link in the whole of Holy Scripture. Thereto is naturally joined an inquiry into how the several writings have been gathered into one Holy Scripture, and how the one Holy Scripture has been preserved unto this present.
+
+The task of the Introduction is therefore best fulfilled by:
+
+* to search out, as exactly as possible, the time of composition and the historical circumstances of each writing;
+* to set forth the content and the line of thought of each writing as fully as time allows;
+* to demonstrate each writing’s place in the whole organism of the holy writings.
