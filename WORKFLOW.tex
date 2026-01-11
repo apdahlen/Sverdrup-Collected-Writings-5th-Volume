@@ -1,0 +1,86 @@
+% master.tex
+\documentclass[12pt]{article}
+
+% -------------------- Page + typography --------------------
+\usepackage[letterpaper,margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc} % safe for pdfLaTeX
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{parskip}        % no paragraph indent; spacing between paragraphs
+
+\usepackage{setspace}
+\onehalfspacing   % or \doublespacing
+
+
+% -------------------- Links (optional) --------------------
+\usepackage[hidelinks]{hyperref}
+
+% -------------------- TOC depth --------------------
+\setcounter{tocdepth}{3}
+
+\begin{document}
+
+% ==========================================================
+% Title Page (English, modeled on the scanned 1910 title page)
+% ==========================================================
+\begin{titlepage}
+    \centering
+    \vspace*{1.5in}
+
+{\Large Professor Georg Sverdrup\par}
+\vspace{0.35in}
+
+{\LARGE\bfseries Thy Kingdom Come\par}
+\vspace{0.25in}
+
+{\large Missionary Meditations and Sermons\par}
+
+\vspace{1.0in}
+
+{\large Edited by\par}
+\vspace{0.10in}
+{\large Andreas Helland\par}
+
+\vfill
+
+{\small Minneapolis, Minnesota\par}
+{\small Frikirkens Boghandels Forlag\par}
+{\small 1912\par}
+
+\vspace{0.5in}
+
+\end{titlepage}
+
+
+
+% ======================
+% Front matter: TOC
+% ======================
+\pagenumbering{roman}
+\tableofcontents
+\addcontentsline{toc}{subsection}{Dogmatic Paragraphs on the Congregation}
+\newpage
+
+\input{TranslatorNote.tex}
+\pagebreak
+\input{Forward/Forward.tex}
+\pagebreak
+\input{Dogmatic/Dogmatic.tex}\pagebreak
+
+
+% ======================
+% Main matter
+% ======================
+\pagenumbering{arabic}
+
+% First included file:
+\input{Pages1to11/Pages1to11.tex}
+\input{Pages12to21/Pages12to21.tex} 
+\input{Pages22to31/Pages22to31.tex}
+\input{Pages32to44/Pages32to44.tex}\pagebreak
+
+
+\end{document}
